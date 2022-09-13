@@ -1,4 +1,4 @@
-# Binance-Bot
+# Binance Trading Bot
 
 What is Bitsgap trading bot?
 The Binance Trading Bot by Bitsgap embodies the outstanding combination of powerful trading signals, professional risk management principles and the latest achievements of artificial intelligence science. It was developed and tested by professional investment managers in collaboration with IT specialists with thorough fin tech background. This trading EA is specifically tailored for Binance API trading and has a proven track of records in various tournaments supported by Binance exchange.
